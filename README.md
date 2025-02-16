@@ -2,9 +2,9 @@
 This is a bot that fetches config info from a given link to a config. It returns product name, image, price, and total. Chat GPT helped me a little bit
 # Installation
 
-1 : Download the BotPCPP.py file
+1 : Do a git clone https://github.com/gachaqui0905/pcpp-discord-bot pcpp-discord-bot
 
-2 : Install Python 3.11 or 3.12
+2 : Install Python 3.11 or 3.12, cd to the directory where you cloned the repo and do a pip install -r requirements.txt
 
 3 : Install VSCode or any code interpreter
 
@@ -20,4 +20,4 @@ This is a bot that fetches config info from a given link to a config. It returns
 
 9 : Copy a link from PCPP, do a /pcpartpicker url: https://pcpartpicker.com/list/yourlist
 
-10 : It should appear
+10 : It should appear in the chat
